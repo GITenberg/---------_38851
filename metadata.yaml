@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4089
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
 description: 'Translation of: La sorcière'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38851#---------
 gutenberg_issued: '2012-02-12'
 gutenberg_type: Text
 identifiers:
