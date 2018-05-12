@@ -1,0 +1,38 @@
+_repo: '---------_38851'
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Economopoulos, Elias
+    alias: Οικονομόπουλος, Ηλίας
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '39679'
+    url: http://www.gutenberg.org/2009/agents/39679
+covers:
+- cover_type: archival
+  image_path: 38851-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Prévost, Marcel
+    aliases:
+    - Prevost, Marcel
+    - Marcel Prévost
+    birthdate: 1862
+    deathdate: 1941
+    gutenberg_agent_id: '4089'
+    url: http://www.gutenberg.org/2009/agents/4089
+    wikipedia: http://en.wikipedia.org/wiki/Marcel_Prévost
+description: 'Translation of: La sorcière'
+gutenberg_issued: '2012-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38851'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Greek'
+title: Η Μάγισσα
+url: http://www.gutenberg.org/ebooks/38851
